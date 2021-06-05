@@ -1,10 +1,12 @@
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Nice to meet you :), well you can know something about me too maybe. So, I am awish, and am a developer. I mostly know javascript, java, HTML and css. But, I am looking forward in future to learn more languages soon. You can also know me on <a href="https://twitter.com/Awish79614683" target="_blank">Twitter</a>.
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I am Awish</h1>
+<h3 align="center">You may have come from my Discord Profile, or maybe clicked on my profile while wondering on GitHub. Anyways fun aside, I am pretty much of a frontend developer. I like to make a tons of Discord bots and websites :). I have been a developer for at least 2 years from now!</h3>
 
-## Projects
-Hiroko is the current discord project I have worked on. And in future I keep working on new things everyday :O
-
-
+<li>I like to code 24/7.</li>
+<li>I have a shitty laptop, that I only code on.</li>
+<li>No, I don't play any games.</li>
+<li>Am always in Pain.</li>
+<li>I don't like to socialize a lot, but I like to make new friends :></li>
+<li>My <a href="https://i.imgur.com/3BKOK0n.png">Discord</a>, <a href="https://awish.codes/">Website.</li>
+  <br><br>
+  
 ![Awish-Senpai's github stats](https://github-readme-stats.vercel.app/api?username=Awish-Senpai&show_icons=true&theme=tokyonight)
-
-## My website [awish.codes](https://awish.codes/)
