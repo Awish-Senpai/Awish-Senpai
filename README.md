@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Awish-Senpai&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Visits"/>
   </a>
    <a href="https://discord.com/users/671355502399193128">
-    <img src="https://img.shields.io/badge/Awish%230001-%237289da?logo=discord&style=flat-square" alt="Awish#6969"/>
+    <img src="https://img.shields.io/badge/Awish%236969-%237289da?logo=discord&style=flat-square" alt="Awish#6969"/>
   </a>
 </p>
 
@@ -16,10 +16,9 @@
 <li>Am always in Pain.</li>
 <li>I don't like to socialize a lot, but I like to make new friends :></li>
 <li>Yes I'm an Introvert *cough*</li>
-<li>My <a href="https://awish.codes/">new website</a> and my <a href="http://awish.live">old website</a>.</li>
+<li>My <a href="https://awish.codes/">main website</a> and my <a href="https://aw-ish.netlify.app/">old website</a>.</li>
   <br><br>
 
 <h1 align="center">Github Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awish-Senpai&layout=compact&theme=tokyonight" />
-
-![Awish-Senpai's github stats](https://github-readme-stats.vercel.app/api?username=Awish-Senpai&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Awish-Senpai&show_icons=true&theme=tokyonight" />
