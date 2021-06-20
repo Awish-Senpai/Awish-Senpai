@@ -16,7 +16,7 @@
 <li>Am always in Pain.</li>
 <li>I don't like to socialize a lot, but I like to make new friends :></li>
 <li>Yes I'm an Introvert *cough*</li>
-<li>My <a href="https://awish.codes/">main website</a> and my <a href="https://aw-ish.netlify.app/">old website</a>.</li>
+<li>My <a href="https://awish.codes/" target="_blank">main website</a> and my <a href="https://aw-ish.netlify.app/" target="_blank">old website</a>.</li>
   <br><br>
 
 <h1 align="center">Github Stats</h1>
