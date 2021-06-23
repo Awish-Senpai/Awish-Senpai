@@ -72,3 +72,4 @@
 <img src="https://i.imgur.com/iUAmLoh.png" />
 <hr>
 <h4>🎨 Background Images by <a href="https://waneella.tumblr.com/" target="_blank">Waneella</a>.</h4>
+<h4>🎴 Images further edited by me on <a href="https://www.figma.com/" target="_blank">Figma</a>.</h4>
