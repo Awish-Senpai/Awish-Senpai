@@ -61,4 +61,4 @@
 <hr>
 <img src="https://i.imgur.com/iUAmLoh.png" />
 <hr>
-<h4>🎨 Background Images by <a href="https://waneella.tumblr.com/" target="_blank">Waneella</a>./h4>
+<h4>🎨 Background Images by <a href="https://waneella.tumblr.com/" target="_blank">Waneella</a>.</h4>
