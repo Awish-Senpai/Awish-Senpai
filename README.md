@@ -67,7 +67,7 @@
    <img src="https://badge-size.herokuapp.com/Awish-Senpai/Awish-Senpai/main/README.md" />
 </p>
 
-<h3>🙃 That's it about me all. If you want to know more about me, you can just visit my <a href="https://awish.codes/" target="_blank">website</a>.</h3>
+<h3>🙃 That's it all about me. If you want to know more about me, you can just visit my <a href="https://awish.codes/" target="_blank">website</a>.</h3>
 <hr>
 <img src="https://i.imgur.com/iUAmLoh.png" />
 <hr>
