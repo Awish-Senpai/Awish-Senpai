@@ -9,7 +9,7 @@
 <li>🙃 Am always in Pain.</li>
 <li>🤗 I don't like to socialize a lot, but I like to make new friends :></li>
 <li>🐱‍💻 Yes I'm an Introvert *cough*</li>
-<li>⌨ My <a href="https://awish.codes/" target="_blank">main website</a> and my <a href="https://aw-ish.netlify.app/" target="_blank">old website</a>.</li>
+<li>⌨ My <a href="https://awish.netlify.app/" target="_blank">main website</a> and my <a href="https://aw-ish.netlify.app/" target="_blank">old website</a>.</li>
 
 <br>
 
@@ -67,7 +67,7 @@
    <img src="https://badge-size.herokuapp.com/Awish-Senpai/Awish-Senpai/main/README.md" />
 </p>
 
-<h3>🙃 That's it all about me. If you want to know more about me, you can just visit my <a href="https://awish.codes/" target="_blank">website</a>.</h3>
+<h3>🙃 That's it all about me. If you want to know more about me, you can just visit my <a href="https://awish.netlify.app/" target="_blank">website</a>.</h3>
 <hr>
 <img src="https://i.imgur.com/iUAmLoh.png" />
 <hr>
